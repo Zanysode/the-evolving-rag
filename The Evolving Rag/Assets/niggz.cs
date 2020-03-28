@@ -2,12 +2,18 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ZanysodeHello : MonoBehaviour
+public class niggz : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("Da um sugatis asddsddsdssddsdssdssdsdqui");
+        sdsdsdsdsdsdsd
+            sdsdsdds
+            sd
+            sd
+            sdsd
+            sd
+            ds
     }
 
     // Update is called once per frame
