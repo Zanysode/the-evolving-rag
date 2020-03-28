@@ -7,7 +7,7 @@ public class ZanysodeHello : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("Hello World! Welcome to 'The Evolving Rag'.");
+        Debug.Log("Da um sugatis aqui");
     }
 
     // Update is called once per frame
