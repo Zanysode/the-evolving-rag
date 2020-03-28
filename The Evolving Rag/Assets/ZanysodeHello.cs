@@ -8,6 +8,7 @@ public class ZanysodeHello : MonoBehaviour
     void Start()
     {
         Debug.Log("Hello World! Welcome to 'The Evolving Rag'.");
+        Debug.Log("Enjoy the game, if you have any ideas of how to improve the game please use the comment section on GitHub :)");
     }
 
     // Update is called once per frame
